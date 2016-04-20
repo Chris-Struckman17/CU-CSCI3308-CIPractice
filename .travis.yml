@@ -2,6 +2,6 @@ language: C
 
 
 
-install: make deps
+install: make dep
 
 
